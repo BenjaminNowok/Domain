@@ -1,0 +1,8 @@
+{
+    "title": "Domain",
+    "folder": "Domain",
+    "description": "Eine Domain, auch als Internet-Domain oder Webadresse bezeichnet, ist eine einzigartige Bezeichnung, die verwendet wird, um eine Website im Internet zu identifizieren. Sie besteht aus einem Namen und einer Top-Level-Domain-Endung, wie z.B. .com, .org, .net oder .edu. Eine Domain wird von einem Registrar, einem Unternehmen, das vom Internet Corporation for Assigned Names and Numbers (ICANN) akkreditiert ist, registriert und verwaltet. Es gibt verschiedene Registrierungsstellen, bei denen eine Domain registriert werden kann. Der Prozess der Registrierung einer Domain ist relativ einfach und erfordert in der Regel nur die Angabe von Informationen wie dem Namen des Domaininhabers, der Adresse und den Kontaktdaten. Domains haben viele Verwendungszwecke, einschließlich der Bereitstellung von Informationen, der Förderung von Produkten oder Dienstleistungen, der Online-Verkauf von Waren, der Einrichtung von E-Mail-Adressen und vieles mehr. Ein wichtiger Aspekt der Auswahl einer Domain ist ihre Verfügbarkeit. Es ist wichtig, eine einzigartige und leicht zu merkende Domain zu wählen, die den Zweck der Website und die Identität des Unternehmens oder der Person, die sie betreibt, widerspiegelt.",
+    "tags": ["domain", "web", ".com"],
+    "author": "Benjamin Nowok",
+    "github": "https://github.com/BenjamiNowok/Domain"
+    }
